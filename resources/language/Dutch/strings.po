@@ -29,7 +29,7 @@ msgstr "Download pad (GEEN FAT32)"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Behoud bestanden nadat het afspelen/downloaden gestopt is"
+msgstr "Bewaar bestanden nadat het afspelen/downloaden gestopt is"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
@@ -37,11 +37,11 @@ msgstr "Buffer grootte (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "Max upload snelheid (kB/s)"
+msgstr "Maximale upload snelheid (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
-msgstr "Max download snelheid (kB/s)"
+msgstr "Maximale download snelheid (kB/s)"
 
 msgctxt "#30006"
 msgid "Listen port min"
@@ -57,7 +57,7 @@ msgstr "Proxy"
 
 msgctxt "#30009"
 msgid "SOCKS v5 Configuration"
-msgstr "SOCKS v5 configuratie"
+msgstr "SOCKS v5 Configuratie"
 
 msgctxt "#30010"
 msgid "Enabled"
@@ -157,11 +157,11 @@ msgstr "Uiterlijk"
 
 msgctxt "#30034"
 msgid "Default view for Movies"
-msgstr "Standaardweergave voor films"
+msgstr "Standaardweergave voor Films"
 
 msgctxt "#30035"
 msgid "Default view for TV Shows"
-msgstr "Standaardweergave voor TV shows"
+msgstr "Standaardweergave voor TV Series"
 
 msgctxt "#30036"
 msgid "Default view for Seasons"
@@ -169,7 +169,7 @@ msgstr "Standaardweergave voor seizoenen"
 
 msgctxt "#30037"
 msgid "Default view for Episodes"
-msgstr "Standaardweergave voor episodes"
+msgstr "Standaardweergave voor Episodes"
 
 msgctxt "#30038"
 msgid "Prefer use of original title"
@@ -189,11 +189,11 @@ msgstr "Stream sorteren"
 
 msgctxt "#30042"
 msgid "Sorting mode for Movies"
-msgstr "Sorteer modus voor films"
+msgstr "Sorteer modus voor Films"
 
 msgctxt "#30043"
 msgid "Sorting mode for TV Shows"
-msgstr "Sorteer mode voor shows"
+msgstr "Sorteer mode voor TV Series"
 
 msgctxt "#30044"
 msgid "By seeders"
@@ -209,20 +209,20 @@ msgstr "Gebalanceerd"
 
 msgctxt "#30047"
 msgid "Resolution preference for Movies"
-msgstr "Resolutie voorkeur voor films"
+msgstr "Resolutie voorkeur voor Films"
 
 msgctxt "#30048"
 msgid "Resolution preference for TV Shows"
-msgstr "Resolutie voorkeur voor TV shows"
+msgstr "Resolutie voorkeur voor TV Series"
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Benodigd percentage van extra seeders  voordat volgende resolutie gekozen wordt"
+msgstr "Percentage van extra seeders nodig voor het kiezen van de volgende resolutie"
 
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
-msgstr "Quasar is gechrashed, restarting..."
+msgstr "Quasar is gechrashed, herstarten..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Quasar"
@@ -238,7 +238,7 @@ msgstr "Quasar binary niet gevonden"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
-msgstr "Invoeren file of URL"
+msgstr "Invoeren bestand of URL"
 
 msgctxt "#30105"
 msgid "URL"
@@ -246,7 +246,7 @@ msgstr "URL"
 
 msgctxt "#30106"
 msgid "File"
-msgstr "File"
+msgstr "Bestand"
 
 msgctxt "#30107"
 msgid "Insert URL"
@@ -254,7 +254,7 @@ msgstr "Invoeren URL"
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "File pad"
+msgstr "Bestands pad"
 
 msgctxt "#30109"
 msgid "OK"
@@ -262,11 +262,11 @@ msgstr "OK"
 
 msgctxt "#30110"
 msgid "Crashed too many times, aborting..."
-msgstr "Te vaak gechrashed, stoppen..."
+msgstr "Te vaak gechrashed, afbreken..."
 
 msgctxt "#30111"
 msgid "Provider failed too many times, disabling..."
-msgstr "Provider te vaak gefaald, stoppen..."
+msgstr "Provider te vaak gefaald, uitschakelen..."
 
 msgctxt "#30112"
 msgid "Unable to disable provider"
@@ -274,7 +274,7 @@ msgstr "Kan provider niet uitzetten"
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
-msgstr "Download pad niet bepaald, controleer instellingen"
+msgstr "Download pad niet ingesteld, controleer instellingen"
 
 # Quasar daemon
 msgctxt "#30200"
@@ -339,15 +339,15 @@ msgstr "Films"
 
 msgctxt "#30215"
 msgid "TV Shows"
-msgstr "TV shows"
+msgstr "TV Series"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Plak URL"
+msgstr "Voeg torrent toe via URL"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "Plak Magnet or URL"
+msgstr "Plak Magnet of URL"
 
 msgctxt "#30218"
 msgid "Next page"
@@ -399,7 +399,7 @@ msgstr "Torrents"
 
 msgctxt "#30230"
 msgid "Play / resume torrent"
-msgstr "Afspelen/resumeren torrent"
+msgstr "Afspelen/hervatten torrent"
 
 msgctxt "#30231"
 msgid "Pause torrent"
@@ -415,11 +415,11 @@ msgstr "Pauzeer sessie"
 
 msgctxt "#30234"
 msgid "Resume session"
-msgstr "Resumeer sessie"
+msgstr "Hervat sessie"
 
 msgctxt "#30235"
 msgid "Resume torrent"
-msgstr "Resumeer torrent"
+msgstr "Hervat torrent"
 
 msgctxt "#30236"
 msgid "Recently Released"
@@ -427,7 +427,7 @@ msgstr "Onlangs vrijgegeven"
 
 msgctxt "#30237"
 msgid "Recent Shows"
-msgstr "Resente shows"
+msgstr "Recente shows"
 
 msgctxt "#30238"
 msgid "Recent Episodes"
@@ -451,7 +451,7 @@ msgstr "Controleren"
 
 msgctxt "#30243"
 msgid "Provider failures"
-msgstr "Provider storingen"
+msgstr "Provider fouten"
 
 msgctxt "#30244"
 msgid "Provider settings"
